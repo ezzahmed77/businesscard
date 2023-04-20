@@ -4,7 +4,9 @@ This is a simple compose card that showcases the image, name, title, phone numbe
 
 ## Preview
 
-![./preview.jpg](./preview.jpg)
+<div>
+<img src="https://user-images.githubusercontent.com/112197330/233276529-e0bfd745-e199-4975-9642-3b74269d7ff3.png" width = "250"/>
+</div>
 
 ## Usage
 
