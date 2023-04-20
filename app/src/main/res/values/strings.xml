@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+
+    <string name="name">Ahmed Ezzeldin</string>
+    <string name="title">Junior Android Developer</string>
+    <string name="number">+39 3313319754</string>
+    <string name="email">ezzahmed.wor@gmail.com</string>
+    <string name="linkedin">98ahmedezzledin</string>
+</resources>
