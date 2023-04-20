@@ -7,7 +7,6 @@ This is a simple compose card that showcases the image, name, title, phone numbe
 <div>
   <img src ="https://user-images.githubusercontent.com/112197330/233281279-baf4fc0c-dbc0-44b8-909a-34fded45e6af.png", width = "250"/>
  </div>
-![Screenshot_20230420_083031](https://user-images.githubusercontent.com/112197330/233281279-baf4fc0c-dbc0-44b8-909a-34fded45e6af.png)
 
 ## Usage
 
